@@ -1,0 +1,6 @@
+=== Smart Environmental Sentinel ===
+Wakeup reason: 0
+Temperature: 22.20 C
+Humidity   : 62.50 %
+Entering Deep Sleep...
+ets Jul 29 2019 12:21:46
